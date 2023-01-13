@@ -11,10 +11,10 @@
 ## 📫 How to reach me:
 
 
-<a href="https://t.me/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/telegram.svg" alt="eCoolGe | Telegram" width="21px"/></a>
-<a href="https://vk.com/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/vk.svg" alt="eCoolGe | VK" width="21px"/></a>
-<a href="https://instagram.com/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/instagram.svg" alt="eCoolGe | Instagram" width="21px"/></a>
-<a href="https://rostov.hh.ru/applicant/resumes/view?resume=74862089ff0b3563af0039ed1f6b39776c4f38" target="blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
+<a href="https://t.me/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/telegram.svg" alt="eCoolGe | Telegram" width="21px"/></a>
+<a href="https://vk.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/vk.svg" alt="eCoolGe | VK" width="21px"/></a>
+<a href="https://instagram.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/instagram.svg" alt="eCoolGe | Instagram" width="21px"/></a>
+<a href="https://rostov.hh.ru/applicant/resumes/view?resume=74862089ff0b3563af0039ed1f6b39776c4f38" target="_blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
 <br>
 
 ## 🔭 I'm currently working on:
@@ -42,7 +42,7 @@
   
 😄 I will be grateful for clicks on the link, it helps to increase the level of the certificate, although it's just entertainment
   
-<a href="https://mynickname.com/eCoolGe" target="blank"><img src="https://mynickname.com/img.php?id=1241314&sert=1" alt="Сертификат на никнейм eCoolGe, зарегистрирован на Коновалова Никиту Александровича" border="0" /></a>
+<a href="https://mynickname.com/eCoolGe" target="_blank"><img src="https://mynickname.com/img.php?id=1241314&sert=1" alt="Сертификат на никнейм eCoolGe, зарегистрирован на Коновалова Никиту Александровича" border="0" /></a>
 
 </details>
   
