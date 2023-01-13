@@ -36,7 +36,7 @@
 ## 👀 Profile Views:
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-![https://github.com/eCoolGe](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=for-the-badge&label=Count)
+[![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=for-the-badge&label=Count)](https://github.com/eCoolGe)
 
 ## 💼 Technical Skills:
 
