@@ -2,9 +2,9 @@
   <a href="https://github.com/eCoolGe" target="_blank" rel="noreferrer"><img style="width:35%" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/readme_logo.png" alt="my banner"></a>
 </p>
 
-<h4 align="center">
-I'm a Front-end Web Developer 💻!
-</h4>
+<div align="center"> <!-- https://git.io/typing-svg -->
+<a href="https://github.com/eCoolGe"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=16&pause=1000&color=C9D1D9&center=true&width=600&lines=I'm+a+Front-end+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB!;I'm+a+Bachelor+of+Information+Systems+and+Technologies+%F0%9F%8E%93!;I'm+a+Master+of+Software+Engineering+%F0%9F%92%BB!" alt="Typing SVG" /></a>
+  </div>
 <hr />
 <br />
 
@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h4 align="center">
+I'm a Front-end Web Developer 💻!
+</h4>
 
 [![eCoolGe's Top Langs](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&layout=compact&hide=autohotkey,handlebars&theme=dark)](https://github.com/eCoolGe)
 [![eCoolGe's GitHub stats](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&show_icons=true&theme=dark)](https://github.com/eCoolGe)
