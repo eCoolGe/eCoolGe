@@ -1,35 +1,42 @@
 <p align="center">
-  <a href="https://github.com/eCoolGe" target="_blank" rel="noreferrer"><img style="width:35%" src="https://x-lines.ru/letters/i/cyrillicscript/0052/3adc1e/60/0/jb1sa5dxrror1adbpwogko5xp7srq3e.png" alt="my banner"></a>
+  <a href="https://github.com/eCoolGe" target="_blank" rel="noreferrer"><img style="width:35%" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/readme_logo.png" alt="my banner"></a>
 </p>
 
 <h4 align="center">
 I'm a Front-end Web Developer 💻!
 </h4>
 <hr />
+<br />
 
-#### ⚡ About me:
-
-- 
-
-#### 🔭 I'm currently working on:
+## 📫 How to reach me:
 
 - 
 
-#### 🌱 I'm currently learning:
+## 🔭 I'm currently working on:
 
 - 
 
-#### 💼 Technical Skills:
+## 🌱 I'm currently learning:
 
 - 
 
-#### 📫 How to reach me:
+## ⚡ About me:
 
 - 
 
+## 📈 GitHub Stats
 
-[![eCoolGe's Top Langs](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&layout=compact&hide=autohotkey,handlebars&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
-[![eCoolGe's GitHub stats](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
+<a href="https://github.com/eCoolGe">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&hide=autohotkey,handlebars,html,css&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000" alt="eCoolGe's Top Langs"/>
+</a>
+
+<a href="https://github.com/eCoolGe">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&show_icons=true&line_height=27&count_private=true&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000&icon_color=4AB097" alt="eCoolGe's GitHub stats" />
+</a>
+
+## 💼 Technical Skills:
+
+- 
 
 <!--
 **eCoolGe/eCoolGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,4 +57,7 @@ Here are some ideas to get you started:
 
 [![eCoolGe's Top Langs](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&layout=compact&hide=autohotkey,handlebars&bg_color=10,0fd64f,f8ef42&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
 [![eCoolGe's GitHub stats](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&bg_color=10,0fd64f,f8ef42&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
+
+[![eCoolGe's Top Langs](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api/top-langs/?username=eCoolGe&hide=autohotkey,handlebars&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
+[![eCoolGe's GitHub stats](https://github-readme-stats-5mfnlxk67-ecoolge.vercel.app/api?username=eCoolGe&bg_color=60,005238,FFCD00&title_color=fff&text_color=fff&border_color=000)](https://github.com/eCoolGe)
 -->
