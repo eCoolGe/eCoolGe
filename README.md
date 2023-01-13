@@ -37,7 +37,41 @@
 
 ## 💼 Technical Skills:
 
-- 
+<!--
+https://simpleicons.org/?q=boot
+https://shields.io
+-->
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-YandexDB-informational?style=flat&logo=YandexDB&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3ADC1E)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=3ADC1E)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=Google-Sheets&logoColor=white&color=3ADC1E)
+
+</details>
+
 
 ## 📈 GitHub Stats
 
