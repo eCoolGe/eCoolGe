@@ -10,17 +10,32 @@
 
 ## 📫 How to reach me:
 
-- 
+
+<a href="https://t.me/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/telegram.svg" alt="eCoolGe | Telegram" width="21px"/></a>
+<a href="https://vk.com/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/vk.svg" alt="eCoolGe | VK" width="21px"/></a>
+<a href="https://instagram.com/eCoolGe" target="blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/instagram.svg" alt="eCoolGe | Instagram" width="21px"/></a>
+<a href="https://rostov.hh.ru/applicant/resumes/view?resume=74862089ff0b3563af0039ed1f6b39776c4f38" target="blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
+<br>
 
 ## 🔭 I'm currently working on:
 
-- 
+- discord-js-bot
 
 ## 🌱 I'm currently learning:
 
-- 
+- TypeScript
+- React Redux
+- C#
+- Python
 
 ## ⚡ About me:
+
+- I am studying for a Master's degree in Software Engineering
+- I've been administering game servers since 2016
+- I've been playing guitar since 2018
+- Sometimes I do volunteer work and hackathons, and in general I try to take everything from life that it gives
+
+## 💼 Technical Skills:
 
 - 
 
@@ -37,12 +52,6 @@
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 [![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=for-the-badge&label=Count)](https://github.com/eCoolGe)
-
-## 💼 Technical Skills:
-
-- 
-
-
 
 <!--
 **eCoolGe/eCoolGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
