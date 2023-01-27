@@ -20,6 +20,7 @@
 ## 🔭 I'm currently working on:
 
 - discord-js-bot
+- edu-subway
 
 ## 🌱 I'm currently learning:
 
