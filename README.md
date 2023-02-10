@@ -36,7 +36,16 @@
 - I've been playing guitar since 2018
 - Sometimes I do volunteer work and hackathons, and in general I try to take everything from life that it gives
 
+<details>
+<summary>View my nickname certificate</summary>
 
+<br>
+  
+😄 I will be grateful for clicks on the link, it helps to increase the level of the certificate, although it's just entertainment
+  
+<a href="https://mynickname.com/eCoolGe" target="_blank"><img src="https://mynickname.com/img.php?id=1241314&sert=1" alt="Сертификат на никнейм eCoolGe" border="0" /></a>
+
+</details>
   
 ## 💼 Technical Skills:
 
