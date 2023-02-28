@@ -19,8 +19,9 @@
 
 ## 🔭 I'm currently working on:
 
-- discord-js-bot
-- edu-subway
+- discord-js-bot (archive, no time)
+- edu-subway (educational)
+- senyabot (private, commercional)
 
 ## 🌱 I'm currently learning:
 
