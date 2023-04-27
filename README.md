@@ -15,20 +15,20 @@
 <a href="https://vk.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/vk.svg" alt="eCoolGe | VK" width="21px"/></a>
 <a href="https://instagram.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/instagram.svg" alt="eCoolGe | Instagram" width="21px"/></a>
 <a href="https://rostov.hh.ru/applicant/resumes/view?resume=74862089ff0b3563af0039ed1f6b39776c4f38" target="_blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
+<a href="https://career.habr.com/ecoolge" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/habr.png" alt="eCoolGe | Habr Career" width="21px"/></a>
 <br>
 
 ## 🔭 I'm currently working on:
 
-- discord-js-bot (archive, no time)
-- edu-subway (educational)
-- senyabot (private, commercional)
+- vkma-rksi (private, hackathon developed, need to finalize)
 
 ## 🌱 I'm currently learning:
 
 - TypeScript
-- React Redux
-- C#
-- Python
+- React 
+- Redux
+- GraphQL
+- Next.js
 
 ## ⚡ About me:
 
@@ -62,6 +62,9 @@ https://shields.io
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-YandexDB-informational?style=flat&logo=YandexDB&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=3ADC1E)
 
 <details>
 <summary>More Skills</summary>
