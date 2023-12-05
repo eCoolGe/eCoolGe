@@ -20,15 +20,12 @@
 
 ## 🔭 I'm currently working on:
 
-- vkma-rksi (private, hackathon developed, need to finalize)
+- vezarubot (private, work repository, *Python language*)
 
-## 🌱 I'm currently learning:
+## 🌱 I'm currently ~~learning~~ developing:
 
-- TypeScript
-- React 
-- Redux
-- GraphQL
-- Next.js
+- Python
+- C#
 
 ## ⚡ About me:
 
@@ -54,17 +51,18 @@
 https://simpleicons.org/?q=boot
 https://shields.io
 -->
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3ADC1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3ADC1E)
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3ADC1E)
+
+![](https://img.shields.io/badge/Code-PostgresQL-informational?style=flat&logo=PostgresQL&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-YandexDB-informational?style=flat&logo=YandexDB&logoColor=white&color=3ADC1E)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=3ADC1E)
+
+
 
 <details>
 <summary>More Skills</summary>
