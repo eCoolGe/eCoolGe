@@ -14,13 +14,13 @@
 <a href="https://t.me/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/telegram.svg" alt="eCoolGe | Telegram" width="21px"/></a>
 <a href="https://vk.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/vk.svg" alt="eCoolGe | VK" width="21px"/></a>
 <a href="https://instagram.com/eCoolGe" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/instagram.svg" alt="eCoolGe | Instagram" width="21px"/></a>
-<a href="https://rostov.hh.ru/applicant/resumes/view?resume=74862089ff0b3563af0039ed1f6b39776c4f38" target="_blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
+<a href="https://hh.ru/resume/3bcbd263ff0d9e61160039ed1f4c6259686668" target="_blank"><img align="left" src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="eCoolGe | HeadHunter" width="21px"/></a>
 <a href="https://career.habr.com/ecoolge" target="_blank"><img align="left" src="https://github.com/eCoolGe/eCoolGe/blob/main/assets/icons/habr.png" alt="eCoolGe | Habr Career" width="21px"/></a>
 <br>
 
 ## 🔭 I'm currently working on:
 
-- vezarubot (private, work repository, *Python language*)
+- LinkiSkypeAPI (private, work repository, *Python language*)
 
 ## 🌱 I'm currently ~~learning~~ developing:
 
