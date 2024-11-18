@@ -110,7 +110,7 @@ https://shields.io
 ## 👀 Profile Views:
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-[![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=flat-square&label=Count)](https://github.com/eCoolGe)
+[![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=for-the-badge&label=Count)](https://github.com/eCoolGe)
 
 <!--
 **eCoolGe/eCoolGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
