@@ -53,38 +53,47 @@
 https://simpleicons.org/?q=boot
 https://shields.io
 -->
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3ADC1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=flat-square&logo=typescript&logoColor=white)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3ADC1E)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-13988a?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgaWQ9InN2ZzgiCiAgIHZlcnNpb249IjEuMSIKICAgdmlld0JveD0iMCAwIDYuMzQ5OTk5OSA2LjM0OTk5OTkiCiAgIGhlaWdodD0iNi4zNDk5OTk5bW0iCiAgIHdpZHRoPSI2LjM0OTk5OTltbSI+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhNSI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODcuNTM5Mjg2LC04NC40MjYxOTEpIgogICAgIGlkPSJsYXllcjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJwYXRoODE1IgogICAgICAgZD0ibSA4Ny41MzkyODYsODQuNDI2MTkxIGggNi4zNSB2IDYuMzUgaCAtNi4zNSB6IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMiIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzI7ZmlsbDojZmZmZmZmIgogICAgICAgaWQ9InBhdGg4MTciCiAgICAgICBkPSJtIDkwLjcxNDI4Niw4NC45NjA2NDkgYyAtMS40NTc4NTQsMCAtMi42NDA1NDIsMS4xODI2ODggLTIuNjQwNTQyLDIuNjQwNTQyIDAsMS40NTc4NTQgMS4xODI2ODgsMi42NDA1NDIgMi42NDA1NDIsMi42NDA1NDIgMS40NTc4NTQsMCAyLjY0MDU0MiwtMS4xODI2ODggMi42NDA1NDIsLTIuNjQwNTQyIDAsLTEuNDU3ODU0IC0xLjE4MjY4OCwtMi42NDA1NDIgLTIuNjQwNTQyLC0yLjY0MDU0MiB6IG0gLTAuMTM3NTgzLDQuNzU3MjA5IHYgLTEuNjU2MjkyIGggLTAuOTIwNzUgbCAxLjMyMjkxNiwtMi41NzcwNDIgdiAxLjY1NjI5MiBoIDAuODg2MzU0IHoiIC8+CiAgPC9nPgo8L3N2Zz4K)
+![Docker](https://img.shields.io/badge/Docker-316192?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 
-![](https://img.shields.io/badge/Code-PostgresQL-informational?style=flat&logo=PostgresQL&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-YandexDB-informational?style=flat&logo=YandexDB&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3ADC1E)
-
-
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
+![YDB](https://img.shields.io/badge/YDB-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=3ADC1E)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+![Threejs](https://img.shields.io/badge/ThreeJS-black?style=flat-square&logo=three.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=3ADC1E)
-![](https://img.shields.io/badge/Tools-Google_Sheets-informational?style=flat&logo=Google-Sheets&logoColor=white&color=3ADC1E)
+
+![NPM](https://img.shields.io/badge/NPM-c80000?style=flat-square&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-f67449?style=flat-square&logo=Postman&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-001e36?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?&style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?&style=flat-square&logo=gitlab&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-107C10?style=flat-square&logo=Google-Sheets&logoColor=white)
 
 </details>
 
@@ -101,7 +110,7 @@ https://shields.io
 ## 👀 Profile Views:
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-[![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=for-the-badge&label=Count)](https://github.com/eCoolGe)
+[![eCoolGe's Profile Views](https://komarev.com/ghpvc/?username=ecoolge&color=green&style=flat-square&label=Count)](https://github.com/eCoolGe)
 
 <!--
 **eCoolGe/eCoolGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
